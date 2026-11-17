@@ -82,7 +82,7 @@ test/zelo_test.dart                   # testes de unidade (modelo, validações,
 
 | Home (Dashboard) | Listagem (ListView) |
 |---|---|
-<img width="200" height="300" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
+<img width="200" height="400" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
  | <img width="1079" height="1562" alt="Lista de Relatos Vazia" src="https://github.com/user-attachments/assets/8b21bf1d-312b-4582-8c62-0e1e8a03a77c" />
 
 | Formulário com validação | Detalhes |
