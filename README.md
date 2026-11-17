@@ -41,8 +41,6 @@
 
 **Opção B – Persistência local com SQLite (`sqflite`).** Nenhum servidor, API ou chave é necessária (execução *zero-config*). O banco é criado automaticamente na primeira execução (`onCreate`) e já recebe uma **carga inicial (seed)** de 8 relatos de exemplo. Todas as operações são assíncronas (`Future`, `async`, `await`).
 
-> **Navegador:** o `sqflite` não funciona na web. Por isso, ao rodar no Chrome (`kIsWeb`), o app usa uma persistência local equivalente (`LocalStorageRelatoRepository`, com `shared_preferences`), que guarda os relatos no armazenamento do próprio navegador, também de forma assíncrona e com o mesmo seed. As duas implementações seguem o mesmo contrato (`RelatoRepository`), então o Provider e as telas são idênticos.
-
 **Tabela `relatos`**
 
 | Coluna | Tipo | Descrição |
@@ -80,20 +78,22 @@ test/zelo_test.dart                   # testes de unidade (modelo, validações,
 ## 4. Galeria de telas
 
 
-| Home (Dashboard) | Listagem (ListView) |
-|---|---|
-<img width="200" height="400" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
- | <img width="1079" height="1562" alt="Lista de Relatos Vazia" src="https://github.com/user-attachments/assets/8b21bf1d-312b-4582-8c62-0e1e8a03a77c" />
+- Home (Dashboard)  
+<img width="310" height="500" alt="Home Screen 01" src="https://github.com/user-attachments/assets/9fae0138-4dae-4d64-b8f2-4aa6315e9201" />
+<img width="310" height="500" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
 
-| Formulário com validação | Detalhes |
-|---|---|
-|<img width="1074" height="1562" alt="Novo Relato" src="https://github.com/user-attachments/assets/c5713528-c202-4eef-b627-2853a498a3e5" />
- |<img width="1079" height="1550" alt="Detalhes de Relato" src="https://github.com/user-attachments/assets/5198924c-f71d-4189-8122-55f443af124a" />
+- Listagem (ListView)
+<img width="310" height="500" alt="Lista de Relatos Vazia" src="https://github.com/user-attachments/assets/8b21bf1d-312b-4582-8c62-0e1e8a03a77c" />
 
-| Sobre / ODS |
-|---|
-| <img width="1078" height="1559" alt="Sobre" src="https://github.com/user-attachments/assets/feb640c0-3bc4-4f96-ac53-45e746a2a6b5" />
- |
+- Formulário com validação 
+<img width="310" height="500" alt="Novo Relato" src="https://github.com/user-attachments/assets/c5713528-c202-4eef-b627-2853a498a3e5" />
+
+- Detalhes
+<img width="310" height="500" alt="Detalhes de Relato" src="https://github.com/user-attachments/assets/5198924c-f71d-4189-8122-55f443af124a" />
+
+- Sobre / ODS 
+<img width="310" height="500" alt="Sobre" src="https://github.com/user-attachments/assets/feb640c0-3bc4-4f96-ac53-45e746a2a6b5" />
+
 
 ## 5. Instruções de execução
 
