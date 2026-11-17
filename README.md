@@ -79,21 +79,16 @@ test/zelo_test.dart                   # testes de unidade (modelo, validações,
 
 ## 4. Galeria de telas
 
-> Adicionar os prints do app em execução em `docs/screenshots/` e referenciá-los abaixo.
 
 | Home (Dashboard) | Listagem (ListView) |
 |---|---|
-<img width="200" height="200" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
->
+<img width="200" height="300" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
  | <img width="1079" height="1562" alt="Lista de Relatos Vazia" src="https://github.com/user-attachments/assets/8b21bf1d-312b-4582-8c62-0e1e8a03a77c" />
->
- |
 
 | Formulário com validação | Detalhes |
 |---|---|
 |<img width="1074" height="1562" alt="Novo Relato" src="https://github.com/user-attachments/assets/c5713528-c202-4eef-b627-2853a498a3e5" />
  |<img width="1079" height="1550" alt="Detalhes de Relato" src="https://github.com/user-attachments/assets/5198924c-f71d-4189-8122-55f443af124a" />
- |
 
 | Sobre / ODS |
 |---|
