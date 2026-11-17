@@ -104,7 +104,7 @@ Pré-requisito: Flutter SDK instalado.
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd GSFlutter-2Semestre-main
+cd GSFlutter-2Semestre
 flutter pub get
 flutter run                
 ```
