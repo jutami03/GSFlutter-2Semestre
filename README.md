@@ -8,7 +8,7 @@
 
 | Nome completo | RM |
 |---|---|
-|Carlos Henrique Mirando Villarinho|RM558073|
+|Carlos Henrique Miranda Villarinho|RM558073|
 |Juliana Tami Kanashiro|RM558421|
 
 ## 2. Sobre o projeto (CitizenTech & ODS)
