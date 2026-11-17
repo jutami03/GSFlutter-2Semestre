@@ -81,21 +81,21 @@ test/zelo_test.dart                   # testes de unidade (modelo, validações,
 > Adicionar os prints do app em execução em `docs/screenshots/` e referenciá-los abaixo.
 
 - Home (Dashboard)
-(<Home Screen 01.png>)
-(<Home Screen 02.png>)
+![Home](docs/screenshots/HomeScreen01.png)
+![Home](docs/screenshots/HomeScreen02.png)
 
 - Listagem (ListView)
-(<Lista de Relatos.png>)
-(<Lista de Relatos Vazia.png>)
+![Home](docs/screenshots/ListadeRelatos.png)
+![Home](docs/screenshots/ListadeRelatosVazia.png)
 
 - Formulário com validação
-(<Novo Relato.png>)
+![Home](docs/screenshots/NovoRelato.png)
 
 - Detalhes
-(<Detalhes de Relato.png>)
+![Home](docs/screenshots/DetalhesdeRelato.png)
 
 - Sobre / ODS
-(<Sobre.png>)
+![Home](docs/screenshots/Sobre.png)
 
 
 ## 5. Instruções de execução
