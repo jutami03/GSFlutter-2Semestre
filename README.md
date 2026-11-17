@@ -83,15 +83,22 @@ test/zelo_test.dart                   # testes de unidade (modelo, validações,
 
 | Home (Dashboard) | Listagem (ListView) |
 |---|---|
-| ![Home](docs/screenshots/home.png) | ![Listagem](docs/screenshots/lista.png) |
+| ![Home]<img width="1081" height="1552" alt="Home Screen 01" src="https://github.com/user-attachments/assets/a66e79d5-046c-45c6-8c90-0bacd30e6d8a" / <img width="1078" height="1543" alt="Home Screen 02" src="https://github.com/user-attachments/assets/acd9d723-3d8c-40ad-8341-3fa9319a6769" />
+>
+ | ![Listagem]<img width="1078" height="1550" alt="Lista de Relatos" src="https://github.com/user-attachments/assets/4a0fceb6-0fd1-4aab-bed8-06d3057bcff8" / <img width="1079" height="1562" alt="Lista de Relatos Vazia" src="https://github.com/user-attachments/assets/8b21bf1d-312b-4582-8c62-0e1e8a03a77c" />
+>
+ |
 
 | Formulário com validação | Detalhes |
 |---|---|
-| ![Formulário](docs/screenshots/formulario.png) | ![Detalhes](docs/screenshots/detalhes.png) |
+| ![Formulário]<img width="1074" height="1562" alt="Novo Relato" src="https://github.com/user-attachments/assets/c5713528-c202-4eef-b627-2853a498a3e5" />
+ | ![Detalhes]<img width="1079" height="1550" alt="Detalhes de Relato" src="https://github.com/user-attachments/assets/5198924c-f71d-4189-8122-55f443af124a" />
+ |
 
 | Sobre / ODS |
 |---|
-| ![Sobre](docs/screenshots/sobre.png) |
+| ![Sobre]<img width="1078" height="1559" alt="Sobre" src="https://github.com/user-attachments/assets/feb640c0-3bc4-4f96-ac53-45e746a2a6b5" />
+ |
 
 ## 5. Instruções de execução
 
